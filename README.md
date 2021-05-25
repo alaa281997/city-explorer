@@ -1,10 +1,10 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [MAP APP](https://silly-banach-e2d6c2.netlify.app/).
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can run api map the user will insert any city name to reander the map that relate to the city name.
 
 ### `npm start`
 
