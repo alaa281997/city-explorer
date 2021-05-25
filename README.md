@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project to render Map for the city that user wants
+LIVE URL : https://silly-banach-e2d6c2.netlify.app/
 
 ## Available Scripts
 
