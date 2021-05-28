@@ -1,5 +1,6 @@
-# Getting Started with Create React App
+# City explorer
 
+**Author**: Alaa Al-Abbas
 This project was bootstrapped with [MAP APP](https://wonderful-spence-1f4c21.netlify.app/).
 
 ## Available Scripts
