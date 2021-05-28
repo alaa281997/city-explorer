@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [MAP APP](https://silly-banach-e2d6c2.netlify.app/).
+This project was bootstrapped with [MAP APP](https://wonderful-spence-1f4c21.netlify.app/).
 
 ## Available Scripts
 
